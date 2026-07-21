@@ -79,4 +79,12 @@ I build things for the web — and lately, tools that let *other* people build w
 
 ---
 
+## 📋 Guestbook <sup>drop a stamp</sup>
+
+Been here? **[Leave your stamp →](https://github.com/nihalashetty/nihalashetty/issues/new?title=Stamp%20the%20guestbook&body=Just%20hit%20%22Submit%20new%20issue%22%20below%20%E2%80%94%20a%20bot%20adds%20your%20avatar%20to%20my%20profile%20and%20closes%20this%20automatically.%20No%20typing%20needed!)** — one click and a bot pins your avatar below (nothing to type, it closes itself).
+
+<!-- START_STAMPS -->
+
+---
+
 <p align="center"><sub>built by Nihal · GG, thanks for stopping by</sub></p>

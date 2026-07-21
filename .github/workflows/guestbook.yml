@@ -1,0 +1,44 @@
+name: Profile Guestbook Stamper
+
+# When anyone opens an issue whose title starts with "Stamp", this workflow
+# grabs their avatar + username, appends a stamp to the README, commits it,
+# and closes the issue with a thank-you.
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-readme:
+    if: startsWith(github.event.issue.title, 'Stamp')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commit the README change
+      issues: write     # close the visitor's issue
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add stamp to README
+        # Event fields are passed via env (never interpolated into the script)
+        # to avoid shell-injection. GitHub logins/avatars are safe values, but
+        # env-vars are the correct pattern regardless.
+        env:
+          USER_NAME: ${{ github.event.issue.user.login }}
+          AVATAR: ${{ github.event.issue.user.avatar_url }}
+        run: |
+          NEW_STAMP="<a href=\"https://github.com/$USER_NAME\" title=\"$USER_NAME\"><img src=\"${AVATAR}&s=96\" width=\"48\" height=\"48\" alt=\"$USER_NAME\"/></a>"
+          # Insert the newest stamp right after the hidden anchor (newest first)
+          sed -i "/<!-- START_STAMPS -->/a $NEW_STAMP" README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "guestbook: new stamp from @${{ github.event.issue.user.login }}"
+
+      - name: Close the issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue close "${{ github.event.issue.number }}" \
+            --comment "Thanks for stopping by and leaving your stamp! 🎮 Refresh my profile in a minute to see it."
