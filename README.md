@@ -22,16 +22,15 @@
 I build things for the web — and lately, tools that let *other* people build with AI. I'm the maker of **[Forge](https://github.com/nihalashetty/Forge)**, an open-source, self-hosted platform for visually shipping AI agents & workflows. When I'm not wiring up LLMs, I'm messing with **React Three Fiber** or grinding a match — one commit, and one respawn, at a time.
 
 `stack` · Python, TypeScript, JavaScript, React<br/>
-`building` · Forge — self-hosted AI agent & workflow builder<br/>
+`building` · Forge - self-hosted AI agent & workflow builder<br/>
 `exploring` · LLMs, agents, vector DBs, 3D web (R3F)<br/>
-`plays` · PUBG, Valorant, RPGs<br/>
-`fact` · We got AI taking our jobs before GTA 6
+`plays` · Valorant, Multiple RPGs<br/>
 
 <br clear="all"/>
 
 ---
 
-## 🎮 Loadout <sup>tech stack</sup>
+## 🎮 Loadout
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-111317?style=flat-square&logo=python&logoColor=22D3EE)
@@ -58,47 +57,9 @@ I build things for the web — and lately, tools that let *other* people build w
 ![Vercel](https://img.shields.io/badge/Vercel-111317?style=flat-square&logo=vercel&logoColor=22D3EE)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111317?style=flat-square&logo=visualstudiocode&logoColor=22D3EE)
 
----
 
-## 🕹️ Featured Builds <sup>projects</sup>
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[⚡ Forge](https://github.com/nihalashetty/Forge)** `⭐6` | Python | Open-source, self-hosted platform to visually build & ship AI agents & workflows |
-| **[🧠 embedding-vectordb-llm-starter](https://github.com/nihalashetty/embedding-vectordb-llm-starter)** | Python · LLM | Local document Q&A — embed → vector DB → chat with Gemini, fully local |
-| **[🌐 Room-portfolio](https://github.com/nihalashetty/Room-portfolio)** | React Three Fiber | A 3D portfolio experiment running in the browser |
-| **[🔧 Hybris → Spring (AI)](https://github.com/nihalashetty/Hybris-to-Spring-Migration-using-AI)** | Python | AI-assisted SAP Hybris → Spring code migration |
-
----
-
-## 📊 Player Stats <sup>github activity</sup>
-
-<!-- Reliable shields.io badges — these always render, even if the card services below are rate-limited. -->
-![Followers](https://img.shields.io/github/followers/nihalashetty?style=flat-square&logo=github&logoColor=22D3EE&labelColor=111317&color=22D3EE)
-![Forge stars](https://img.shields.io/github/stars/nihalashetty/Forge?style=flat-square&logo=github&logoColor=22D3EE&labelColor=111317&color=22D3EE&label=Forge%20★)
-![Profile views](https://komarev.com/ghpvc/?username=nihalashetty&label=views&color=22D3EE&style=flat-square)
-
-<!--
-  ⚠️ The two cards below use the FREE SHARED instances of github-readme-stats,
-  which are frequently rate-limited (503) — that's why they showed as broken.
-  PERMANENT FIX (≈5 min): deploy your own copy and swap the hostname.
-    1. Fork/deploy https://github.com/anuraghazra/github-readme-stats to Vercel
-       (README has a one-click "Deploy" button; add a PAT env var `PAT_1`).
-    2. Replace  github-readme-stats.vercel.app  →  <your-app>.vercel.app  in the two URLs below.
-  The query params stay identical, so the look doesn't change.
--->
-![stats](https://github-readme-stats.vercel.app/api?username=nihalashetty&show_icons=true&hide_border=true&bg_color=111317&title_color=22D3EE&icon_color=8a8f98&text_color=e6e8eb)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihalashetty&layout=compact&hide_border=true&bg_color=111317&title_color=22D3EE&text_color=e6e8eb&langs_count=8)
-
-![streak](https://streak-stats.demolab.com?user=nihalashetty&hide_border=true&background=111317&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideNums=e6e8eb&sideLabels=8a8f98&dates=5c6169&stroke=111317)
-
-<!-- Trophy card removed: its shared instance is hard-quota'd (402). To re-add it,
-     self-host https://github.com/ryo-ma/github-profile-trophy and use:
-     ![trophies](https://<your-app>.vercel.app/?username=nihalashetty&theme=flat&no-bg=true&no-frame=true&column=6&title_color=22D3EE&text_color=e6e8eb) -->
-
----
-
-## 🐍 Contribution Snake <sup>activity graph</sup>
+## 🐍 Contribution Snake
 
 <!-- Standard GitHub green in light mode (matches your contribution graph); dark palette only for dark-mode viewers. -->
 <picture>
