@@ -28,35 +28,6 @@ I build things for the web — and lately, tools that let *other* people build w
 
 ---
 
-## Loadout
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-111317?style=flat-square&logo=python&logoColor=22D3EE)
-![TypeScript](https://img.shields.io/badge/TypeScript-111317?style=flat-square&logo=typescript&logoColor=22D3EE)
-![JavaScript](https://img.shields.io/badge/JavaScript-111317?style=flat-square&logo=javascript&logoColor=22D3EE)
-![HTML5](https://img.shields.io/badge/HTML5-111317?style=flat-square&logo=html5&logoColor=22D3EE)
-![CSS3](https://img.shields.io/badge/CSS3-111317?style=flat-square&logo=css3&logoColor=22D3EE)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-111317?style=flat-square&logo=react&logoColor=22D3EE)
-![Three.js](https://img.shields.io/badge/React_Three_Fiber-111317?style=flat-square&logo=threedotjs&logoColor=22D3EE)
-![Node.js](https://img.shields.io/badge/Node.js-111317?style=flat-square&logo=node.js&logoColor=22D3EE)
-![Express](https://img.shields.io/badge/Express-111317?style=flat-square&logo=express&logoColor=22D3EE)
-![GSAP](https://img.shields.io/badge/GSAP-111317?style=flat-square&logo=greensock&logoColor=22D3EE)
-
-**AI & LLM**  
-![LangChain](https://img.shields.io/badge/LangChain-111317?style=flat-square&logo=langchain&logoColor=22D3EE)
-![OpenAI](https://img.shields.io/badge/OpenAI-111317?style=flat-square&logo=openai&logoColor=22D3EE)
-![Gemini](https://img.shields.io/badge/Google_Gemini-111317?style=flat-square&logo=googlegemini&logoColor=22D3EE)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-111317?style=flat-square&logo=git&logoColor=22D3EE)
-![Docker](https://img.shields.io/badge/Docker-111317?style=flat-square&logo=docker&logoColor=22D3EE)
-![Vercel](https://img.shields.io/badge/Vercel-111317?style=flat-square&logo=vercel&logoColor=22D3EE)
-![VS Code](https://img.shields.io/badge/VS%20Code-111317?style=flat-square&logo=visualstudiocode&logoColor=22D3EE)
-
-
-
 ## Contribution Snake
 
 <!-- Standard GitHub green in light mode (matches your contribution graph); dark palette only for dark-mode viewers. -->
@@ -79,10 +50,9 @@ I build things for the web — and lately, tools that let *other* people build w
 
 ---
 
-## 📋 Guestbook <sup>drop a stamp</sup>
+## Guestbook
 
-Been here? **[Leave your stamp →](https://github.com/nihalashetty/nihalashetty/issues/new?title=Stamp%20the%20guestbook&body=Just%20hit%20%22Submit%20new%20issue%22%20below%20%E2%80%94%20a%20bot%20adds%20your%20avatar%20to%20my%20profile%20and%20closes%20this%20automatically.%20No%20typing%20needed!)** — one click and a bot pins your avatar below (nothing to type, it closes itself).
-
+Been here? **[Leave your stamp →](https://github.com/nihalashetty/nihalashetty/issues/new?title=Stamp%20the%20guestbook&body=Just%20hit%20%22Submit%20new%20issue%22%20below%20%E2%80%94%20a%20bot%20adds%20your%20avatar%20to%20my%20profile%20and%20closes%20this%20automatically.%20No%20typing%20needed!)** — one click and a bot pins your avatar below.
 <!-- START_STAMPS -->
 
 ---
