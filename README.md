@@ -7,8 +7,6 @@
 <!--  Accent: #22D3EE (cyan) · Cards: #111317 · User: nihalashetty   -->
 <!-- ============================================================= -->
 
-![status](https://img.shields.io/badge/●_online-building_Forge-22D3EE?style=flat-square&labelColor=0d1117)
-
 # Nihal A Shetty
 **Full-Stack Developer · AI tooling & creative web**
 
