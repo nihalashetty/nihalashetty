@@ -30,7 +30,7 @@ I build things for the web — and lately, tools that let *other* people build w
 
 ---
 
-## 🎮 Loadout
+## Loadout
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-111317?style=flat-square&logo=python&logoColor=22D3EE)
@@ -59,7 +59,7 @@ I build things for the web — and lately, tools that let *other* people build w
 
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <!-- Standard GitHub green in light mode (matches your contribution graph); dark palette only for dark-mode viewers. -->
 <picture>
@@ -68,11 +68,11 @@ I build things for the web — and lately, tools that let *other* people build w
   <img alt="contribution snake" src="https://raw.githubusercontent.com/nihalashetty/nihalashetty/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>🟩 watch it eat my commits — regenerates every 12h via GitHub Actions</sub>
+<sub>Watch it eat my commits - regenerates every 12h via GitHub Actions</sub>
 
 ---
 
-## 🤝 Party Up <sup>connect</sup>
+## Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-111317?style=flat-square&logo=linkedin-white&logoColor=22D3EE)](https://www.linkedin.com/in/nihal-a-shetty/)
 [![Instagram](https://img.shields.io/badge/Instagram-111317?style=flat-square&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/nihal_a_shetty/)
